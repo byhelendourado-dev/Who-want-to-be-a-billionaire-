@@ -1,0 +1,34 @@
+
+who_wants_to_be_a_billionaire/
+├── main.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── assets/
+│   ├── fonts/
+│   ├── images/
+│   └── sounds/
+├── data/
+│   └── questions.json
+├── src/
+│   ├── __init__.py
+│   ├── core/
+│   │   ├── __init__.py
+│   │   └── game.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── player.py
+│   │   └── question.py
+│   ├── ui/
+│   │   ├── __init__.py
+│   │   ├── main_menu.py
+│   │   ├── instructions_screen.py
+│   │   ├── question_screen.py
+│   │   └── end_screen.py
+│   └── utils/
+│       ├── __init__.py
+│       ├── constants.py
+│       └── question_loader.py
+└── tests/
+    ├── __init__.py
+    └── test_game.py
