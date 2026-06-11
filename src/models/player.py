@@ -1,18 +1,30 @@
 """Player class."""
+from src.utils.constants import game_levels
 
 class Player:
 
     def __init__(self):
-        self.current_score = 0
-        self.prize_ammount = 0
-        self.progress = 0
+        self.current_score = ""
+        self.level = 0
         self.lifeline_usage = 3
+``
+    def get_score(self):
+        return self.current_score
 
-    def update_score(self):
-        pass
+    def get_level(self):
+        return self.level
+
+
+    def update_score(self): 
+        self.current_score = game_levels[self.level]
+        return self.current_score
+        
 
     def advance_level(self):
-        pass
+        if self.level < 10:
+            self.level +=  1
+            return self.level
+        return 0
 
     def use_lifeline(self):
         if self.lifeline_usage > 0:
@@ -21,14 +33,3 @@ class Player:
 
         return False
 
-jogador = Player()
-print(jogador.use_lifeline())
-print(jogador.use_lifeline())
-print(jogador.use_lifeline())
-print(jogador.use_lifeline())
-print(jogador.use_lifeline())
-print(jogador.use_lifeline())
-print(jogador.use_lifeline())
-
-jogador2 = Player()
-print(jogador2.use_lifeline())

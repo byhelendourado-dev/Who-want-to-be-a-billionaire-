@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is the capital city of Canada?",
+    "answers": [
+      "Toronto",
+      "Ottawa",
+      "Vancouver",
+      "Montreal"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "How many days are there in a week?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [
+      "Venus",
+      "Jupiter",
+      "Mars",
+      "Saturn"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which animal is known as the king of the jungle?",
+    "answers": [
+      "Tiger",
+      "Lion",
+      "Elephant",
+      "Bear"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "answers": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "question": "How many months are there in a year?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What color do you get when you mix blue and yellow?",
+    "answers": [
+      "Purple",
+      "Green",
+      "Orange",
+      "Red"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is 5 + 3?",
+    "answers": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What instrument is used to measure temperature?",
+    "answers": [
+      "Ruler",
+      "Scale",
+      "Thermometer",
+      "Stopwatch"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which gas do humans need to breathe to survive?",
+    "answers": [
+      "Hydrogen",
+      "Oxygen",
+      "Nitrogen",
+      "Helium"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "answers": [
+      "Elephant",
+      "Giraffe",
+      "Blue Whale",
+      "Hippopotamus"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which continent is Canada located in?",
+    "answers": [
+      "Europe",
+      "Asia",
+      "North America",
+      "Africa"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the first letter of the English alphabet?",
+    "answers": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which fruit is associated with Isaac Newton's gravity story?",
+    "answers": [
+      "Banana",
+      "Apple",
+      "Orange",
+      "Grape"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is 10 - 4?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "answers": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the official language of the United Kingdom?",
+    "answers": [
+      "French",
+      "Spanish",
+      "English",
+      "German"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which season comes after winter?",
+    "answers": [
+      "Autumn",
+      "Spring",
+      "Summer",
+      "Winter"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is Earth's natural satellite called?",
+    "answers": [
+      "Sun",
+      "Mars",
+      "Moon",
+      "Venus"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which shape has three sides?",
+    "answers": [
+      "Square",
+      "Circle",
+      "Triangle",
+      "Rectangle"
+    ],
+    "correct_answer": 2
+  }
+]
