@@ -1,5 +1,5 @@
 """Player class."""
-from src.utils.constants import game_levels
+# from src.utils.constants import game_levels
 
 class Player:
 
@@ -7,7 +7,7 @@ class Player:
         self.current_score = ""
         self.level = 0
         self.lifeline_usage = 3
-``
+
     def get_score(self):
         return self.current_score
 
@@ -16,8 +16,9 @@ class Player:
 
 
     def update_score(self): 
-        self.current_score = game_levels[self.level]
-        return self.current_score
+        pass
+    #     self.current_score = game_levels[self.level]
+    #     return self.current_score
         
 
     def advance_level(self):

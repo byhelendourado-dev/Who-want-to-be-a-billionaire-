@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answers": [
+      "Saturn",
+      "Earth",
+      "Jupiter",
+      "Neptune"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answers": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answers": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which element has the chemical symbol 'Na'?",
+    "answers": [
+      "Nitrogen",
+      "Sodium",
+      "Nickel",
+      "Neon"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "How many bones are in the adult human body?",
+    "answers": [
+      "196",
+      "206",
+      "216",
+      "226"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which country has the largest population in the world?",
+    "answers": [
+      "India",
+      "United States",
+      "China",
+      "Indonesia"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "answers": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Albert Einstein",
+      "Nikola Tesla"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answers": [
+      "Won",
+      "Yuan",
+      "Yen",
+      "Ringgit"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which organ is responsible for filtering blood in the human body?",
+    "answers": [
+      "Heart",
+      "Liver",
+      "Kidneys",
+      "Lungs"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "In which year did World War II end?",
+    "answers": [
+      "1943",
+      "1944",
+      "1945",
+      "1946"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "answers": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Who wrote 'Harry Potter and the Philosopher's Stone'?",
+    "answers": [
+      "Suzanne Collins",
+      "J.K. Rowling",
+      "Stephen King",
+      "Rick Riordan"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the largest internal organ in the human body?",
+    "answers": [
+      "Heart",
+      "Brain",
+      "Liver",
+      "Lungs"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "answers": [
+      "China",
+      "South Korea",
+      "Japan",
+      "Thailand"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is 15 squared?",
+    "answers": [
+      "125",
+      "225",
+      "325",
+      "425"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which scientist discovered penicillin?",
+    "answers": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Marie Curie",
+      "Gregor Mendel"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the main language spoken in Brazil?",
+    "answers": [
+      "Spanish",
+      "Portuguese",
+      "English",
+      "French"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which ocean lies between Africa and Australia?",
+    "answers": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+    "answers": [
+      "Macbeth",
+      "Hamlet",
+      "Othello",
+      "King Lear"
+    ],
+    "correct_answer": 1
+  }
+]

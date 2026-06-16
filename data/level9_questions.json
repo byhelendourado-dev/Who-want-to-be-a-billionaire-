@@ -1,0 +1,103 @@
+
+[
+  {
+    "question": "Which mathematician introduced the notation ∀ and ∃ that became standard in first-order logic?",
+    "answers": ["Gottlob Frege", "Giuseppe Peano", "Gerhard Gentzen", "Bertrand Russell"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the name of the boundary surrounding a black hole beyond which no information can escape?",
+    "answers": ["Photon Sphere", "Ergosphere", "Event Horizon", "Schwarzschild Radius"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which treaty, signed in 1494, divided newly discovered lands outside Europe between Portugal and Spain?",
+    "answers": ["Treaty of Zaragoza", "Treaty of Tordesillas", "Treaty of Alcáçovas", "Treaty of Utrecht"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Who wrote the medieval philosophical and theological work 'Summa Theologica'?",
+    "answers": ["Augustine of Hippo", "Thomas Aquinas", "Peter Abelard", "Anselm of Canterbury"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which particle in the Standard Model is responsible for giving mass to other elementary particles through its associated field?",
+    "answers": ["Gluon", "W Boson", "Higgs Boson", "Tau Lepton"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the capital city of the Federated States of Micronesia?",
+    "answers": ["Kolonia", "Palikir", "Majuro", "Weno"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which ancient Greek scientist is credited with the earliest known calculation of Earth's circumference using geometry?",
+    "answers": ["Archimedes", "Ptolemy", "Eratosthenes", "Hipparchus"],
+    "correct_answer": 2
+  },
+  {
+    "question": "In linguistics, what is the reconstructed common ancestor of most European and many Asian languages called?",
+    "answers": ["Proto-Germanic", "Proto-Indo-European", "Proto-Semitic", "Proto-Uralic"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which composer completed exactly nine symphonies and is often associated with the 'Curse of the Ninth'?",
+    "answers": ["Johannes Brahms", "Anton Bruckner", "Gustav Mahler", "Ludwig van Beethoven"],
+    "correct_answer": 3
+  },
+  {
+    "question": "Which chemical element has the highest electronegativity on the Pauling scale?",
+    "answers": ["Oxygen", "Chlorine", "Fluorine", "Nitrogen"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the name of the theorem proving that every map can be colored using no more than four colors so that adjacent regions differ?",
+    "answers": ["Jordan Curve Theorem", "Graph Coloring Theorem", "Four Color Theorem", "Euler's Planar Theorem"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which explorer became the first known European to reach India by sea from Europe?",
+    "answers": ["Christopher Columbus", "Bartolomeu Dias", "Vasco da Gama", "Ferdinand Magellan"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which moon of Jupiter is the most volcanically active body in the Solar System?",
+    "answers": ["Europa", "Ganymede", "Callisto", "Io"],
+    "correct_answer": 3
+  },
+  {
+    "question": "Who formulated the laws of electromagnetic induction and introduced the concept of field lines?",
+    "answers": ["James Clerk Maxwell", "Michael Faraday", "André-Marie Ampère", "Heinrich Hertz"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the only letter that does not appear in the periodic table's one- or two-letter element symbols?",
+    "answers": ["J", "Q", "X", "W"],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which empire's official language was Classical Nahuatl during the reign of Moctezuma II?",
+    "answers": ["Inca Empire", "Maya Civilization", "Aztec Empire", "Toltec Empire"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which mathematician solved the Basel Problem by proving that the sum of the reciprocals of the squares equals π²/6?",
+    "answers": ["Carl Friedrich Gauss", "Leonhard Euler", "Pierre de Fermat", "Joseph Lagrange"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the deepest known point in Earth's oceans called?",
+    "answers": ["Java Trench", "Puerto Rico Trench", "Tonga Trench", "Challenger Deep"],
+    "correct_answer": 3
+  },
+  {
+    "question": "Which philosopher is famous for the statement 'Cogito, ergo sum' ('I think, therefore I am')?",
+    "answers": ["Baruch Spinoza", "René Descartes", "John Locke", "David Hume"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which astronomical catalog object is also known as the Crab Nebula?",
+    "answers": ["M31", "M42", "M1", "M13"],
+    "correct_answer": 2
+  }
+]

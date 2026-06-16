@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Which treaty ended World War I in 1919?",
+    "answers": [
+      "Treaty of Paris",
+      "Treaty of Versailles",
+      "Treaty of Vienna",
+      "Treaty of Rome"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the capital city of New Zealand?",
+    "answers": [
+      "Auckland",
+      "Christchurch",
+      "Wellington",
+      "Hamilton"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which scientist proposed the three laws of motion?",
+    "answers": [
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Johannes Kepler"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "answers": [
+      "NaCl",
+      "KCl",
+      "H2O",
+      "CO2"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Who wrote the novel '1984'?",
+    "answers": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Ernest Hemingway"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which country has the most time zones?",
+    "answers": [
+      "Russia",
+      "United States",
+      "France",
+      "Australia"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the value of Pi rounded to two decimal places?",
+    "answers": [
+      "3.12",
+      "3.14",
+      "3.16",
+      "3.18"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which blood cells are primarily responsible for fighting infections?",
+    "answers": [
+      "Red blood cells",
+      "Platelets",
+      "White blood cells",
+      "Plasma"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Who composed the famous piece 'Für Elise'?",
+    "answers": [
+      "Mozart",
+      "Beethoven",
+      "Bach",
+      "Chopin"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which planet has the most moons in the Solar System?",
+    "answers": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the tallest mountain in Africa?",
+    "answers": [
+      "Mount Kenya",
+      "Mount Kilimanjaro",
+      "Mount Elgon",
+      "Atlas Mountains"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which branch of mathematics deals with shapes and their properties?",
+    "answers": [
+      "Algebra",
+      "Calculus",
+      "Geometry",
+      "Statistics"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "answers": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Golgi apparatus"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "In which year did humans first land on the Moon?",
+    "answers": [
+      "1967",
+      "1968",
+      "1969",
+      "1970"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which language family does English belong to?",
+    "answers": [
+      "Romance",
+      "Germanic",
+      "Slavic",
+      "Celtic"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the largest organ of the human body?",
+    "answers": [
+      "Liver",
+      "Brain",
+      "Skin",
+      "Lungs"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Who painted 'The Starry Night'?",
+    "answers": [
+      "Claude Monet",
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Salvador Dalí"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which element is represented by the symbol 'Fe'?",
+    "answers": [
+      "Fluorine",
+      "Francium",
+      "Iron",
+      "Fermium"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is 18 × 12?",
+    "answers": [
+      "196",
+      "204",
+      "216",
+      "224"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which ocean is the deepest in the world?",
+    "answers": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Southern Ocean"
+    ],
+    "correct_answer": 2
+  }
+]

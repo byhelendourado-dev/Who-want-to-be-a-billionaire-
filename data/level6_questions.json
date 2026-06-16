@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which physicist formulated the uncertainty principle?",
+    "answers": ["Niels Bohr", "Werner Heisenberg", "Max Planck", "Erwin Schrödinger"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the capital of Kazakhstan?",
+    "answers": ["Almaty", "Tashkent", "Astana", "Bishkek"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which ancient civilization built Machu Picchu?",
+    "answers": ["Maya", "Aztec", "Olmec", "Inca"],
+    "correct_answer": 3
+  },
+  {
+    "question": "What is the rarest blood type among humans?",
+    "answers": ["AB Positive", "O Negative", "AB Negative", "A Negative"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Who wrote the epic poem 'Paradise Lost'?",
+    "answers": ["Geoffrey Chaucer", "John Milton", "William Blake", "Alexander Pope"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which planet rotates on its side relative to its orbit?",
+    "answers": ["Neptune", "Saturn", "Uranus", "Mercury"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the SI unit of electrical resistance?",
+    "answers": ["Volt", "Ampere", "Ohm", "Watt"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which country was formerly known as Ceylon?",
+    "answers": ["Myanmar", "Sri Lanka", "Nepal", "Bhutan"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Who painted 'Guernica'?",
+    "answers": ["Salvador Dalí", "Pablo Picasso", "Joan Miró", "Francisco Goya"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the largest moon of Saturn?",
+    "answers": ["Europa", "Titan", "Io", "Triton"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which organ produces insulin in the human body?",
+    "answers": ["Liver", "Kidney", "Pancreas", "Spleen"],
+    "correct_answer": 2
+  },
+  {
+    "question": "In which year did the French Revolution begin?",
+    "answers": ["1776", "1789", "1812", "1848"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which mathematician is known for the Last Theorem that bears his name?",
+    "answers": ["Euler", "Gauss", "Fermat", "Pascal"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the deepest known point in Earth's oceans?",
+    "answers": ["Puerto Rico Trench", "Java Trench", "Mariana Trench", "Tonga Trench"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which language is the oldest continuously spoken Semitic language?",
+    "answers": ["Arabic", "Hebrew", "Aramaic", "Amharic"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Who discovered the neutron in 1932?",
+    "answers": ["Ernest Rutherford", "James Chadwick", "J.J. Thomson", "Enrico Fermi"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which empire was ruled by Mansa Musa?",
+    "answers": ["Songhai Empire", "Mali Empire", "Ghana Empire", "Benin Empire"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the value of the mathematical constant e rounded to two decimal places?",
+    "answers": ["2.17", "2.51", "2.72", "3.14"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which Shakespeare play contains the line 'Some are born great, some achieve greatness, and some have greatness thrust upon them'?",
+    "answers": ["Hamlet", "Macbeth", "Twelfth Night", "King Lear"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the chemical symbol for tungsten?",
+    "answers": ["Tg", "Tu", "W", "Ts"],
+    "correct_answer": 2
+  }
+]

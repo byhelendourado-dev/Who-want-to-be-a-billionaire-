@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which mathematician proved the Prime Number Theorem independently at nearly the same time as Jacques Hadamard?",
+    "answers": ["Henri Poincaré", "Charles Hermite", "Jean le Rond d'Alembert", "Charles Jean de la Vallée-Poussin"],
+    "correct_answer": 3
+  },
+  {
+    "question": "What was the capital of the Byzantine Empire before it became Constantinople?",
+    "answers": ["Nicaea", "Byzantium", "Antioch", "Ephesus"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which physicist introduced the concept of isospin in particle physics?",
+    "answers": ["Werner Heisenberg", "Murray Gell-Mann", "Paul Dirac", "Enrico Fermi"],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which work by Dante Alighieri contains the sections Inferno, Purgatorio, and Paradiso?",
+    "answers": ["La Vita Nuova", "The Banquet", "Divine Comedy", "De Monarchia"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the name of the supercontinent that existed before Pangaea?",
+    "answers": ["Laurasia", "Rodinia", "Gondwana", "Pannotia"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which Roman emperor was known as 'The Apostate' for rejecting Christianity?",
+    "answers": ["Julian", "Hadrian", "Diocletian", "Constantius II"],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which branch of mathematics studies topological spaces and continuous transformations?",
+    "answers": ["Number Theory", "Topology", "Combinatorics", "Measure Theory"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the name of the brightest quasar in the night sky, located in the constellation Virgo?",
+    "answers": ["3C 273", "Cygnus A", "Ton 618", "Messier 87"],
+    "correct_answer": 0
+  },
+  {
+    "question": "Who composed the opera cycle 'Der Ring des Nibelungen'?",
+    "answers": ["Giuseppe Verdi", "Richard Wagner", "Gustav Mahler", "Richard Strauss"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which ancient kingdom was centered around the city of Aksum?",
+    "answers": ["Nubia", "Ethiopia", "Kush", "Axumite Empire"],
+    "correct_answer": 3
+  },
+  {
+    "question": "Which scientist first coined the term 'cell' in biology?",
+    "answers": ["Antonie van Leeuwenhoek", "Robert Hooke", "Matthias Schleiden", "Theodor Schwann"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the SI derived unit for catalytic activity?",
+    "answers": ["Sievert", "Gray", "Katal", "Becquerel"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which treaty formally ended the War of the Spanish Succession?",
+    "answers": ["Treaty of Utrecht", "Treaty of Aix-la-Chapelle", "Treaty of Paris", "Treaty of Vienna"],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which logician is known for incompleteness theorems that transformed mathematical logic?",
+    "answers": ["Gottlob Frege", "Bertrand Russell", "Kurt Gödel", "Alfred Tarski"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the largest moon of Neptune?",
+    "answers": ["Titania", "Charon", "Triton", "Oberon"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which philosopher wrote 'Critique of Pure Reason'?",
+    "answers": ["Georg Hegel", "Baruch Spinoza", "Immanuel Kant", "Arthur Schopenhauer"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which chemical element was first isolated by Humphry Davy using electrolysis?",
+    "answers": ["Sodium", "Helium", "Argon", "Radium"],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which African lake is the world's second-largest freshwater lake by surface area?",
+    "answers": ["Lake Tanganyika", "Lake Malawi", "Lake Victoria", "Lake Turkana"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the name of the mathematical constant equal to the ratio of a circle's circumference to its diameter?",
+    "answers": ["Euler's Number", "Phi", "Tau", "Pi"],
+    "correct_answer": 3
+  },
+  {
+    "question": "Which medieval scholar is often credited with introducing Aristotelian philosophy to Western Europe through extensive commentaries?",
+    "answers": ["Avicenna", "Averroes", "Maimonides", "Al-Farabi"],
+    "correct_answer": 1
+  }
+]

@@ -16,7 +16,7 @@ class Game:
 
     def load_question(self):
         self.question = ql.random_question(self.player.get_level())
-        print(self.question)
+        return self.question
 
     def process_answer(self, answer):
         if answer == self.question["correct_answer"]:
@@ -26,6 +26,9 @@ class Game:
 
     def end_game(self):
         return True if self.player.get_level() == 10 else False
+
+    def get_player_level(self):
+        return self.player.get_level()
 
 
 

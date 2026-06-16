@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which treaty ended the Thirty Years' War in 1648?",
+    "answers": ["Treaty of Utrecht", "Peace of Westphalia", "Treaty of Tordesillas", "Treaty of Versailles"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the only bone in the human body that is not directly connected to another bone?",
+    "answers": ["Scapula", "Hyoid", "Coccyx", "Patella"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Who developed the first successful polio vaccine?",
+    "answers": ["Louis Pasteur", "Alexander Fleming", "Jonas Salk", "Edward Jenner"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which star is closest to Earth after the Sun?",
+    "answers": ["Sirius", "Alpha Centauri A", "Proxima Centauri", "Barnard's Star"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which country has the longest coastline in the world?",
+    "answers": ["Russia", "Australia", "Canada", "Indonesia"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Who wrote 'The Canterbury Tales'?",
+    "answers": ["Geoffrey Chaucer", "Thomas More", "John Milton", "William Langland"],
+    "correct_answer": 0
+  },
+  {
+    "question": "What is the name of the process by which plants lose water through their leaves?",
+    "answers": ["Respiration", "Transpiration", "Fermentation", "Diffusion"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which chemical element was the first to be artificially produced?",
+    "answers": ["Technetium", "Plutonium", "Neptunium", "Francium"],
+    "correct_answer": 0
+  },
+  {
+    "question": "In economics, what does GDP stand for?",
+    "answers": ["General Domestic Product", "Gross Domestic Product", "Global Development Program", "Gross Development Production"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which Roman emperor made Christianity the primary religion of the Roman Empire?",
+    "answers": ["Augustus", "Nero", "Constantine I", "Theodosius I"],
+    "correct_answer": 3
+  },
+  {
+    "question": "What is the largest gland in the human body?",
+    "answers": ["Pancreas", "Liver", "Thyroid", "Pituitary"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which mathematician introduced the concept of imaginary numbers into mainstream mathematics?",
+    "answers": ["René Descartes", "Leonhard Euler", "Carl Gauss", "Girolamo Cardano"],
+    "correct_answer": 3
+  },
+  {
+    "question": "What is the capital city of Mongolia?",
+    "answers": ["Astana", "Ulaanbaatar", "Tashkent", "Baku"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Who composed the opera 'The Magic Flute'?",
+    "answers": ["Beethoven", "Handel", "Mozart", "Haydn"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which scientist first demonstrated that lightning is electrical in nature?",
+    "answers": ["Michael Faraday", "Benjamin Franklin", "Nikola Tesla", "James Clerk Maxwell"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which ocean current is primarily responsible for moderating the climate of Western Europe?",
+    "answers": ["California Current", "Kuroshio Current", "Gulf Stream", "Canary Current"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the term for a word that is spelled the same forwards and backwards?",
+    "answers": ["Anagram", "Palindrome", "Homonym", "Acronym"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which ancient wonder was located in Babylon?",
+    "answers": ["Colossus of Rhodes", "Temple of Artemis", "Hanging Gardens", "Lighthouse of Alexandria"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the derivative of x³?",
+    "answers": ["x²", "2x", "3x²", "3x"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which Nobel Prize category was not included in Alfred Nobel's original will?",
+    "answers": ["Chemistry", "Physics", "Economics", "Literature"],
+    "correct_answer": 2
+  }
+]

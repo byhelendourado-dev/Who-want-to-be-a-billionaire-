@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which philosopher wrote 'The Republic'?",
+    "answers": ["Aristotle", "Socrates", "Plato", "Descartes"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "answers": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which element has the atomic number 6?",
+    "answers": ["Nitrogen", "Carbon", "Oxygen", "Boron"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Who proposed the heliocentric model of the Solar System?",
+    "answers": ["Galileo Galilei", "Nicolaus Copernicus", "Johannes Kepler", "Tycho Brahe"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the longest river in South America?",
+    "answers": ["Paraná River", "Orinoco River", "Amazon River", "São Francisco River"],
+    "correct_answer": 2
+  },
+  {
+    "question": "In computing, what does CPU stand for?",
+    "answers": ["Central Process Unit", "Computer Processing Unit", "Central Processing Unit", "Control Program Unit"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which country won the 2018 FIFA World Cup?",
+    "answers": ["Germany", "France", "Argentina", "Croatia"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the pH of a neutral solution?",
+    "answers": ["0", "5", "7", "14"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "answers": ["Charlotte Brontë", "Jane Austen", "Emily Dickinson", "Virginia Woolf"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "answers": ["Sahara Desert", "Arabian Desert", "Antarctic Desert", "Gobi Desert"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the square root of 144?",
+    "answers": ["10", "11", "12", "13"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which war was fought between the North and South regions of the United States?",
+    "answers": ["World War I", "American Revolutionary War", "American Civil War", "War of 1812"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which part of the cell contains genetic material?",
+    "answers": ["Mitochondria", "Nucleus", "Cytoplasm", "Cell Membrane"],
+    "correct_answer": 1
+  },
+  {
+    "question": "Who composed 'The Four Seasons'?",
+    "answers": ["Mozart", "Bach", "Vivaldi", "Tchaikovsky"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the capital city of South Korea?",
+    "answers": ["Busan", "Incheon", "Seoul", "Daegu"],
+    "correct_answer": 2
+  },
+  {
+    "question": "Which gas contributes the most to the natural greenhouse effect?",
+    "answers": ["Carbon Dioxide", "Methane", "Water Vapor", "Ozone"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What does DNA stand for?",
+    "answers": ["Deoxyribonucleic Acid", "Dynamic Nuclear Acid", "Deoxynitric Acid", "Dual Nucleic Acid"],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which artist sculpted 'David'?",
+    "answers": ["Donatello", "Michelangelo", "Bernini", "Raphael"],
+    "correct_answer": 1
+  },
+  {
+    "question": "In which year did the Berlin Wall fall?",
+    "answers": ["1987", "1988", "1989", "1990"],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the value of 2 raised to the power of 8?",
+    "answers": ["128", "256", "512", "1024"],
+    "correct_answer": 1
+  }
+]
