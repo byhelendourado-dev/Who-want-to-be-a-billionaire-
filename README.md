@@ -1,5 +1,3 @@
 # Who Wants to Be a Billionaire
 
-Project structure scaffold.
-
-helen
+Execute python main.py to run the game.
